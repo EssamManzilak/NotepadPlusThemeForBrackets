@@ -5,6 +5,7 @@ define(function (require, exports, module) {
         EditorManager = brackets.getModule("editor/EditorManager"),
         ExtensionUtils = brackets.getModule("utils/ExtensionUtils");
 
+<<<<<<< HEAD
     var Themes = require("themes");
 
     AppInit.appReady(function () {
@@ -21,4 +22,8 @@ define(function (require, exports, module) {
 
         return promise.then(Themes.init);
     });
+=======
+		// ExtensionUtils.loadStyleSheet(module, "notepadplus.css");
+    
+>>>>>>> origin/master
 });
