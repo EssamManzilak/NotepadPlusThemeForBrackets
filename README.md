@@ -1,4 +1,4 @@
-Brackets-Notepad++ Theme
+Notepad++ theme for Brackets 
 ==========================
 
 How to Install
@@ -11,9 +11,6 @@ To install extensions:
 2. Search for this extension
 3. Click _Install_!
 
-
-### License
-MIT-licensed -- see `main.js` for details.
-
+ 
 ### Compatibility
 Brackets Sprint 16 or newer (or Adobe Edge Code Preview 2 or newer).
