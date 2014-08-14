@@ -310,17 +310,17 @@ span.CodeMirror-foldmarker {
 }
 .table-striped tbody tr:nth-child(odd) td,
 .table-striped tbody tr:nth-child(odd) th {
-    background: #333;
-    color: #eee;
+    background: #383838;
+    color: #eee!important;
 }
 .table-striped tbody tr:nth-child(even) td,
 .table-striped tbody tr:nth-child(even) th {
-    background: #2a2a2a;
-    color: #eee;
+    background: #2E2E2E;
+    color: #eee!important;
 }
 body.platform-win .extension-manager-dialog .modal-body .extension-list .ext-name,
 body.platform-win .extension-manager-dialog .modal-body .extension-list .ext-desc {
-    color: #eee;
+    color: #eee!important;
 }
 .extension-manager-dialog .modal-header .nav-tabs {
     border-color: #1a1a1a;
@@ -338,7 +338,7 @@ body.platform-win .extension-manager-dialog .modal-body .extension-list .ext-des
 .toolbar .nav .dropdown-menu li a,
 .context-menu .dropdown-menu li a,
 .codehint-menu .dropdown-menu li a {
-    color: #bbb;
+    color: #313131;
 }
 .toolbar .nav .dropdown-menu li a:hover,
 .context-menu .dropdown-menu li a:hover,
@@ -348,4 +348,8 @@ body.platform-win .extension-manager-dialog .modal-body .extension-list .ext-des
 .codehint-menu .dropdown-menu li a.highlight {
     color: #DDDDDD;
     background: #363636;
+}
+
+.extension-manager-dialog .modal-body .extension-list .ext-name {
+color: #fff!important;
 }

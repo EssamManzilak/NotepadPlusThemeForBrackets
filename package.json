@@ -2,16 +2,22 @@
     "title": "Notepad++ Theme",
     "name": "notepadplus",
     "description": "Notepad++ Theme for Brackets",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "author": "Essam Bahassan <essam.soft@gmail.com>",
     "homepage": "https://github.com/EssamManzilak/NotepadPlusThemeForBrackets",
     "repository": {
         "type": "git",
         "url": "git://github.com/EssamManzilak/NotepadPlusThemeForBrackets.git"
     },
+	"keywords": [
+        "themes",
+        "notepadplus"
+    ],	
     "engines": {
-        "brackets": ">=0.38.0"
+        "brackets": ">=0.42.0"
     },
-    "theme": "notepadplus.css",
-    "screenshot": "screenshot.png"
+    "theme": {
+        "file": "notepadplus.css",
+        "dark": true
+    }
 }
