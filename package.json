@@ -2,7 +2,11 @@
     "title": "Notepad++ Theme",
     "name": "notepadplus",
     "description": "Notepad++ Theme for Brackets",
+<<<<<<< HEAD
     "version": "1.0.3",
+=======
+    "version": "1.0.2",
+>>>>>>> origin/master
     "author": "Essam Bahassan <essam.soft@gmail.com>",
     "homepage": "https://github.com/EssamManzilak/NotepadPlusThemeForBrackets",
     "repository": {
