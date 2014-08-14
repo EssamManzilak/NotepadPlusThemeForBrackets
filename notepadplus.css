@@ -127,81 +127,81 @@ body {
     font-size: 14px;
     line-height: 18px;
 }
-.cm-s-notepadplus .CodeMirror-selected {
+ .CodeMirror-selected {
     background: #c0c0c0;
     opacity: .9;
 }
-.cm-s-notepadplus .cm-keyword {
+ .cm-keyword {
     color: #000;
 }
-.cm-s-notepadplus .cm-atom {
+ .cm-atom {
     color: #000;
 }
-.cm-s-notepadplus .cm-number {
+ .cm-number {
     color: #000;
 }
-.cm-s-notepadplus .cm-unit {
+ .cm-unit {
     color: #d0782a;
 }
-.cm-s-notepadplus .cm-def {
+ .cm-def {
     color: #0080ff;
 }
-.cm-s-notepadplus .cm-variable {
+ .cm-variable {
     color: #000;
 }
-.cm-s-notepadplus .cm-variable-2 {
+ .cm-variable-2 {
     color: #000;
 }
-.cm-s-notepadplus .cm-property {
+ .cm-property {
     color: #8080c0;
 }
-.cm-s-notepadplus .cm-operator {
+ .cm-operator {
     color: #000;
 }
-.cm-s-notepadplus .cm-comment {
+ .cm-comment {
     color: #008000;
     font-weight: normal!important;
 }
-.cm-s-notepadplus .cm-string {
+ .cm-string {
     color: #8000ff;
 }
-.cm-s-notepadplus .cm-string-2 {
+ .cm-string-2 {
     color: #8000ff;
 }
-.cm-s-notepadplus .cm-meta {
+ .cm-meta {
     color: #000;
 }
-.cm-s-notepadplus .cm-header {
+ .cm-header {
     color: blue;
 }
-.cm-s-notepadplus .cm-tag {
+ .cm-tag {
     color: #0000ff;
 }
-.cm-s-notepadplus .cm-attribute {
+ .cm-attribute {
     color: red;
 }
-.cm-s-notepadplus .cm-qualifier {
+ .cm-qualifier {
     color: red;
 }
-.cm-s-notepadplus .cm-error {
+ .cm-error {
     color: #f00;
 }
-.cm-s-notepadplus .cm-bracket {} .cm-s-notepadplus .cm-builtin {
+ .cm-bracket {}  .cm-builtin {
     color: #0080ff;
 }
-.cm-s-notepadplus .cm-quote {
+ .cm-quote {
     color: #090;
 }
-.cm-s-notepadplus .cm-hr {
+ .cm-hr {
     color: #999;
 }
-.cm-s-notepadplus .cm-link {
+ .cm-link {
     color: #00c;
 }
-.cm-s-notepadplus .cm-strong {
+ .cm-strong {
     color: #f00;
 }
-.cm-s-notepadplus .cm-em {
+ .cm-em {
     color: #ddca7e;
 }
 .codehint-item b {
@@ -213,7 +213,7 @@ body {
 .box-css .cm-string {
     color: red!important;
 }
-.cm-s-notepadplus .cm-matchhighlight {
+ .cm-matchhighlight {
     background: #00CCFF;
     box-shadow: 0 0 5px #00CCFF;
     color: #000;
@@ -241,7 +241,7 @@ body {
     background-color: #75d975;
     color: #000;
 }
-.cm-s-notepadplus .CodeMirror-activeline-background {
+ .CodeMirror-activeline-background {
     background: rgba(235, 235, 235, 0.5) !important;
     margin: -1px -10px;
 }
