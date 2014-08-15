@@ -16,6 +16,3 @@ To install extensions:
 
 ### CSS
 ![CSS Screenshot](https://github.com/EssamManzilak/NotepadPlusThemeForBrackets/blob/master/screenshot2.jpg)
-
- 
- 
