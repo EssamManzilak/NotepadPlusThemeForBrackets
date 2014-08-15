@@ -14,12 +14,8 @@ To install extensions:
 ### HTML
 ![HTML Screenshot](https://github.com/EssamManzilak/NotepadPlusThemeForBrackets/blob/master/screenshot.png)
 
+### CSS
+![CSS Screenshot](https://github.com/EssamManzilak/NotepadPlusThemeForBrackets/blob/master/screenshot2.jpg)
+
  
-### Compatibility
-Brackets Sprint 16 or newer (or Adobe Edge Code Preview 2 or newer).
-
-#Changelog
-
-### 1.0.3
-- Bug fixing.
-
+ 
