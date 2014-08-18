@@ -16,7 +16,7 @@ body {
     display: none;
 }
 #status-info,
-#status-indicators * {
+#status-indicators {
     color: #fff;
 }
 .toolbar .nav .dropdown-toggle {
