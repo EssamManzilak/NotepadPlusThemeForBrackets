@@ -139,21 +139,4 @@ div.CodeMirror-gutters {
     padding: 0 0 20px 0;
     border-right: 0;
 }
-span.CodeMirror-widget {
-    margin: -3px 0;
-    display: inline-block;
-}
-span.CodeMirror-foldmarker {
-    display: inline-table;
-    background: #ccc;
-    border: 0;
-    color: #000;
-    border-radius: 3px;
-    font-size: 20px;
-    margin: 3px;
-    padding: 0 5px;
-    height: 15px;
-    line-height: 15px;
-    overflow: hidden;
-    white-space: nowrap;
-}
+
