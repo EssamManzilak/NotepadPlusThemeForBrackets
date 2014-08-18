@@ -116,7 +116,7 @@ body {
 .jstree-brackets li .extension {
     color: #ccc;
 }
-.CodeMirror {} .CodeMirror div.CodeMirror-cursor {
+.CodeMirror div.CodeMirror-cursor {
     border-left: 1px solid #000;
     z-index: 99;
 }
