@@ -254,11 +254,11 @@ div.CodeMirror-gutter {
 div.CodeMirror-gutters {
     background-color: #333435;
     box-shadow: 0 0 10px hsla(0, 0%, 0%, .8);
-    padding: 0 0px 20px 0px;
+    padding: 0 0 20px 0;
     border-right: 0;
 }
 span.CodeMirror-widget {
-    margin: -3px 0px;
+    margin: -3px 0;
     display: inline-block;
 }
 span.CodeMirror-foldmarker {
@@ -269,7 +269,7 @@ span.CodeMirror-foldmarker {
     border-radius: 3px;
     font-size: 20px;
     margin: 3px;
-    padding: 0px 5px;
+    padding: 0 5px;
     height: 15px;
     line-height: 15px;
     overflow: hidden;
