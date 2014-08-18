@@ -107,7 +107,7 @@
     border-bottom: 1px solid #FF3333;
 }
 .CodeMirror .CodeMirror-matchingbracket {
-    color: red!important;
+    color: red !important;
     background: #D5D5D5;
 }
 .CodeMirror .cm-matchhighlight.CodeMirror-searching.CodeMirror-selectedtext {
