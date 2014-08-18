@@ -130,9 +130,6 @@
  .CodeMirror-activeline-background {
     background: rgba(235, 235, 235, 0.5) !important;
 }
-div.CodeMirror-gutter {
-    color: #ccc;
-}
 .CodeMirror-gutters {
     background-color: #333435;
     box-shadow: 0 0 10px hsla(0, 0%, 0%, .8);
