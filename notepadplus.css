@@ -93,13 +93,13 @@
     color: #ddca7e;
 }
 .codehint-item b {
-    color: red!important;
+    color: red !important;
 }
 .box-html .cm-atom {
     color: #96b38a;
 }
 .box-css .cm-string {
-    color: red!important;
+    color: red !important;
 }
  .cm-matchhighlight {
     background: #00CCFF;
@@ -159,85 +159,4 @@ span.CodeMirror-foldmarker {
     line-height: 15px;
     overflow: hidden;
     white-space: nowrap;
-}
-::-webkit-scrollbar {
-    -webkit-appearance: none;
-    width: 8px;
-}
-/* Track */
-
-::-webkit-scrollbar-track {
-    background-color: #363636;
-}
-/* Handle */
-
-::-webkit-scrollbar-thumb {
-    background: rgba(100, 100, 100, 1);
-    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
-}
-::-webkit-scrollbar-thumb:window-inactive {
-    background: rgba(55, 55, 55, 0.9);
-}
-.extension-manager-dialog .modal-header,
-.extension-manager-dialog .modal-footer {
-    background: #222;
-}
-.extension-manager-dialog .modal-body {
-    background: #1a1a1a;
-}
-.extension-manager-dialog .modal-footer {
-    border-color: #1a1a1a;
-}
-.extension-manager-dialog .modal-header .nav-tabs > li > a {
-    color: #eee;
-}
-.extension-manager-dialog .modal-header .nav-tabs > .active > a,
-.extension-manager-dialog .modal-header .nav-tabs > .active > a:hover {
-    background: #333;
-    border-color: #1a1a1a #1a1a1a transparent #1a1a1a;
-}
-.table-striped tbody tr:nth-child(odd) td,
-.table-striped tbody tr:nth-child(odd) th {
-    background: #383838;
-    color: #eee!important;
-}
-.table-striped tbody tr:nth-child(even) td,
-.table-striped tbody tr:nth-child(even) th {
-    background: #2E2E2E;
-    color: #eee!important;
-}
-body.platform-win .extension-manager-dialog .modal-body .extension-list .ext-name,
-body.platform-win .extension-manager-dialog .modal-body .extension-list .ext-desc {
-    color: #eee!important;
-}
-.extension-manager-dialog .modal-header .nav-tabs {
-    border-color: #1a1a1a;
-}
-.extension-manager-dialog .modal-body .info-message {
-    background: #1a1a1a;
-    color: #888;
-}
-#project-dropdown-toggle {
-    width: auto;
-}
-#devdocs-viewer-iframe ._header {
-    background-color: #222;
-}
-.toolbar .nav .dropdown-menu li a,
-.context-menu .dropdown-menu li a,
-.codehint-menu .dropdown-menu li a {
-    color: #313131;
-}
-.toolbar .nav .dropdown-menu li a:hover,
-.context-menu .dropdown-menu li a:hover,
-.codehint-menu .dropdown-menu li a:hover,
-.toolbar .nav .dropdown-menu li a.highlight,
-.context-menu .dropdown-menu li a.highlight,
-.codehint-menu .dropdown-menu li a.highlight {
-    color: #DDDDDD;
-    background: #363636;
-}
-
-.extension-manager-dialog .modal-body .extension-list .ext-name {
-color: #fff!important;
 }
