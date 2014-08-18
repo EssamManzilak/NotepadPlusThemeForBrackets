@@ -1,16 +1,15 @@
 .CodeMirror .CodeMirror-scroll {
-    background-color: transparent;
+    background-color: #fff;
+    color: #000;
 }
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
     background: #333333;
     color: #EEEEEE
 }
-.CodeMirror div.CodeMirror-cursor {
+.CodeMirror .CodeMirror-cursor {
     border-left: 1px solid #000;
-    z-index: 99;
 }
 .CodeMirror-lines {
-    padding: 0 0 265px 0;
     background-color: #fff;
     color: #202020;
 }
