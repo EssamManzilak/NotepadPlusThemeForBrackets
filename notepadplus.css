@@ -1,120 +1,9 @@
-body {
-    background-color: #3c3f41;
-}
-#titlebar,
-#main-toolbar,
-#status-bar,
-#status-indicators,
-#editor-holder #not-editor {
-    background-color: #3c3f41;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-}
-#titlebar {
-    height: 14px;
-}
-#titlebar .title-wrapper {
-    display: none;
-}
-#status-info,
-#status-indicators {
-    color: #fff;
-}
-.toolbar .nav .dropdown-toggle {
-    padding: 2px 5px 1px !important;
-    color: #fff;
-    font-size: 13px;
-}
-.toolbar .nav .dropdown-toggle:hover {
-    color: inherit;
-}
-.toolbar .nav .dropdown-menu {
-    top: 23px;
-}
-.dropdown-toggle:hover,
-.dropdown.open .dropdown-toggle {
-    background: #dfe2e2 !important;
-    border-color: #d0d5d5 !important;
-}
-.dropdown-menu li a.disabled:hover {
-    background: #fff !important;
-}
-.inline-widget {
-    background: #151515;
-}
-.inline-widget .CodeMirror-gutter,
-.inline-widget .CodeMirror-linenumbers {
-    background-color: transparent !important;
-}
-.inline-widget .close,
-.inline-widget .inline-editor-header .filename {
-    color: #8a8a8a !important;
-    text-shadow: none;
-}
-.inline-widget .inline-editor-header .btn {
-    border: 1px solid #333434;
-    background-color: #3f4041;
-    box-shadow: inset 0 1px rgba(0, 0, 0, 0.05);
-    color: #c6c8c8;
-    text-shadow: 0 -1px rgba(0, 0, 0, 0.69);
-}
-.inline-widget .inline-editor-header .btn:hover {
-    background-color: #626465;
-    color: #c6c8c8;
-    text-shadow: 0 -1px rgba(0, 0, 0, 0.69);
-}
-.inline-widget .shadow.top {
-    background-image: linear-gradient(top, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
-}
-.inline-widget .shadow.bottom {
-    background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
-}
 .CodeMirror .CodeMirror-scroll {
     background-color: transparent;
 }
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
     background: #333333;
     color: #EEEEEE
-}
-#main-toolbar,
-#status-bar,
-#status-indicators {
-    background: #242424;
-    color: #ccc;
-}
-#status-info {
-    color: #ccc;
-}
-#open-files-container,
-#working-set-header,
-#project-files-header,
-.recent-folder,
-#open-folder-link {
-    color: #ddd;
-}
-#project-dropdown.dropdown-menu a.selected {
-    background: #0081c2;
-}
-.dropdown-menu {
-    background: #333;
-    color: #aaa;
-}
-.dropdown-menu .divider {
-    background: #222;
-    border-bottom: 1px solid #444;
-}
-.sidebar-selection {
-    background: #1a1a1a;
-}
-.sidebar-selection-triangle {
-    display: none !important;
-}
-.jstree-brackets li.jstree-closed > a,
-.jstree-brackets li.jstree-open > a {
-    color: #ccc;
-}
-#open-files-container .extension,
-.jstree-brackets li .extension {
-    color: #ccc;
 }
 .CodeMirror div.CodeMirror-cursor {
     border-left: 1px solid #000;
@@ -124,7 +13,6 @@ body {
     padding: 0 0 265px 0;
     background-color: #fff;
     color: #202020;
-    font-weight: bold;
     font-family: "Courier New";
     font-size: 14px;
     line-height: 18px;
