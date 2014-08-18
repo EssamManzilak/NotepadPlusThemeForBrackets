@@ -133,7 +133,7 @@
 div.CodeMirror-gutter {
     color: #ccc;
 }
-div.CodeMirror-gutters {
+.CodeMirror-gutters {
     background-color: #333435;
     box-shadow: 0 0 10px hsla(0, 0%, 0%, .8);
     padding: 0 0 20px 0;
