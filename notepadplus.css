@@ -85,7 +85,9 @@ body {
     color: #ccc;
 }
 #open-files-container,
-#working-set-header {} #project-files-header {} .recent-folder,
+#working-set-header,
+#project-files-header,
+.recent-folder,
 #open-folder-link {
     color: #ddd;
 }
