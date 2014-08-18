@@ -188,9 +188,10 @@ body {
  .cm-error {
     color: #f00;
 }
- .cm-bracket {}  .cm-builtin {
-    color: #0080ff;
-}
+ .cm-bracket,
+ .cm-builtin {
+     color: #0080ff;
+ }
  .cm-quote {
     color: #090;
 }
