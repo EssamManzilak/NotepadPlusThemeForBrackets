@@ -3,16 +3,11 @@ Notepad++ theme for Brackets
 
 How to Install
 ==============
-Go to Last Edit is an extension for [Brackets](https://github.com/adobe/brackets/), a new open-source code editor for the web.
 
-To install extensions:
-
-1. Choose _File > Extension Manager_ and select the _Available_ tab
-2. Search for this extension
-3. Click _Install_!
+Installing Notepad++ theme is easy. All you have to do is this: file -> extension manager..., or click the lego brick icon in the right toolbar Click the tab called "available" Type "themes" in the top right search bar Locate "Notepad++ theme" and click the install button next to it
 
 ### HTML
-![HTML Screenshot](https://github.com/EssamManzilak/NotepadPlusThemeForBrackets/blob/master/screenshot.png)
+![HTML Screenshot](http://essam-soft.com/upload/screenshot.png)
 
 ### CSS
-![CSS Screenshot](https://github.com/EssamManzilak/NotepadPlusThemeForBrackets/blob/master/screenshot2.jpg)
+![CSS Screenshot](http://essam-soft.com/upload/screenshot2.jpg)
